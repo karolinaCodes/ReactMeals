@@ -1,7 +1,7 @@
 # ReactMeals
 ReactMeals is a single-page food ordering and delivery app with a firebase back-end.
 <br>
-ReactMeals was built to practice React components, the useContext Hook, and making HTTP requests in React, and in the end practice integrating a Firebase back-end.
+ReactMeals was built in the ['React- The Complete Guide'](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) to practice React components, the useContext Hook, and making HTTP requests in React, and in the end practice integrating a Firebase back-end.
 
 ---
 
